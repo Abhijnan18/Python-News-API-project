@@ -10,7 +10,7 @@ Welcome to the Python News API project! This Python project fetches and displays
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Code Explained for Babies](#code-explained)
+- [Code Explained for Babies](#code-explained-for-babies)
 - [Usage](#usage)
 
 ## Introduction
@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
 3. Replace `"YOUR_NEWS_API_KEY"` with your actual News API key in the `news.py` script.
 
 ## Code Explained for Babies
-   By ChatGPT:https://chat.openai.com/share/f8b6701f-d92e-4cd5-bfa4-37dddb6522f4
+   By ChatGPT: https://chat.openai.com/share/f8b6701f-d92e-4cd5-bfa4-37dddb6522f4
 
 ## Usage
 
