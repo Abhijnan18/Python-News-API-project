@@ -3,7 +3,7 @@
 ```markdown
 # Python News API project
 
-Welcome to the Global Python News API project! This Python project fetches and displays global news headlines using the News API. Stay up-to-date with the latest news from around the world!
+Welcome to the Python News API project! This Python project fetches and displays global news headlines using the News API. Stay up-to-date with the latest news from around the world!
 
 ![Project Demo](demo.gif) <!-- Add a demo GIF or screenshot here -->
 
@@ -13,8 +13,6 @@ Welcome to the Global Python News API project! This Python project fetches and d
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
