@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 Run the script by executing the following command in your terminal:
 
 ```sh
-python news.py
+python news_app.py
 ```
 
 Follow the prompts to input a country code (e.g., `us`, `gb`, `in`) and view the latest news headlines from that country.
