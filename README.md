@@ -1,6 +1,6 @@
 # Python-News-API-project
 
-```markdown
+
 # Python News API project
 
 Welcome to the Python News API project! This Python project fetches and displays global news headlines using the News API. Stay up-to-date with the latest news from around the world!
@@ -12,6 +12,7 @@ Welcome to the Python News API project! This Python project fetches and displays
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
+- [Code Explained for Babies](#code-explained)
 - [Usage](#usage)
 
 ## Introduction
@@ -34,6 +35,7 @@ Before you begin, ensure you have met the following requirements:
    cd global-news-headlines
    ```
 
+
 2. Install the required packages:
 
    ```sh
@@ -41,6 +43,9 @@ Before you begin, ensure you have met the following requirements:
    ```
 
 3. Replace `"YOUR_NEWS_API_KEY"` with your actual News API key in the `news.py` script.
+
+## Code Explained for Babies
+   by ChatGPT:https://chat.openai.com/share/f8b6701f-d92e-4cd5-bfa4-37dddb6522f4
 
 ## Usage
 
